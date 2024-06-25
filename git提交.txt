@@ -1,0 +1,3 @@
+git remote add origin https://github.com/YunDan1828361686/ArchitectureV2.git
+git branch -M main
+git push -u origin main
